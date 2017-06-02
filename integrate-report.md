@@ -15,7 +15,6 @@ Microsoft komt nu met Power BI als onderdeel van de office 365 Suite. Microsoft 
 
 In vervolg op [Rapport maken en toevoegen aan de workspace] gaan we nu het rapport benaderen via een webpagina.
 
-
 ## Test integratie via Report Embed Sample
 Voordat we het rapport gaan integreren in een maatwerk applicatie kunnen we met behulp van een aantal gegevens ons rapport testen in de [Report Embed Sample].
 

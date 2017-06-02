@@ -3,7 +3,7 @@
 [Rapport integreren in een webpagina]: /integrate-report.md
 [Wat is Microsoft Power BI Embedded]: /readme.md
 
-# Aanmaken van een Workspace Collection in Microsoft Azure
+# Aan de slag met Microsoft Power BI Embedded
 
 Microsoft komt nu met Power BI als onderdeel van de office 365 Suite. Microsoft Power BI Embedded biedt de mogelijkheid om geavanceerde rapportages eenvoudig te integreren in een maatwerkapplicatie. In deze snelstart willen we door middel van een aantal stapen laten zien hoe wij Power BI integreren in onze maatwerkapplicaties.
 
