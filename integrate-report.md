@@ -1,7 +1,7 @@
 [Aanmaken van een Workspace Collection in Microsoft Azure]:/create-workspace-collection.md
 [Rapport maken en toevoegen aan de workspace]:/create-add-report.md
 [Rapport integreren in een webpagina]: /integrate-report.md
-[Wat is Microsoft Power BI Embedded]: /readme.md
+[Wat is Microsoft Power BI Embedded]: /
 [Report Embed Sample]: https://microsoft.github.io/PowerBI-JavaScript/demo/code-demo/index.html
 
 # Aan de slag met Microsoft Power BI Embedded
