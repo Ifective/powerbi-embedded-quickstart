@@ -20,7 +20,7 @@ Voordat we het rapport gaan integreren in een maatwerk applicatie kunnen we met 
 
 We hebben hiervoor de een report-id en een embed-token nodig. Deze gegevens hebben we in de vorige stap [Rapport maken en toevoegen aan de workspace] kunnen verzamelen.
 
-![Power BI Desktop](/content/embed-sample.png "Power BI Desktop")
+![Power BI Desktop](/content/ife-embed-sample.png "Power BI Desktop")
 
 ## Integratie in een webpagina
 De voorbeelden zoals deze worden geschetst in [Report Embed Sample] kunnen wij ook toepassen in onze maatwerkapplicatie. Hiervoor dienen we de javascript library te installeren.

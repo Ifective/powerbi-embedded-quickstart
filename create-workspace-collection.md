@@ -21,24 +21,24 @@ Voordat we kunnen beginnen met het toevoegen van rapporten hebben we eerste een 
 
 2. Klik **+ New** boven in het menu
 
-    ![Stap2](/content/create-workspace-collection-step-2.png "Stap2")
+    ![Stap2](/content/ife-create-workspace-collection-step-2.png "Stap2")
 
 3. Onder **Data + Analytics** klik Power BI Embedded
 4. Op de **Workspace Collection Blade** moeten verplichte velden worden ingevoerd
 
-    ![Stap 4](/content/create-workspace-collection-step-4.png "Stap 4")
+    ![Stap 4](/content/ife-create-workspace-collection-step-4.png "Stap 4")
 
 5. Klik **Create**
 
 De Workspace Collection wordt nu aangemaakt. Wanneer deze compleet is wordt er een notificatie gegeven ‘Deployments succeeded’ wordt de klik op de notificatie en de Workspace Collection Blade getoond.
 
-![Blade](/content/create-workspace-collection-blade.png "Blade")
+![Blade](/content/ife-create-workspace-collection-blade.png "Blade")
 
 ## Power BI Api Keys
 Om gebruik te maken van de Workspace Collection zijn de Api Keys nodig. Deze api-keys zorgen ervoor dat een applicatie kan communiceren met de workspace collection.
 
 De api-keys kunnen we vinden aan de linkerkant van op de Workspace Collection Blade.
 
-![Blade](/content/create-workspace-collection-accesskeys.png "Blade")
+![Blade](/content/ife-create-workspace-collection-accesskeys.png "Blade")
 
 Nu we een workspace collection tot onze beschikking hebben met daarbij de behorende access key kunnen we een [Rapport maken en toevoegen aan de workspace].

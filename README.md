@@ -25,7 +25,7 @@ Microsoft Power BI is onderdeel van Office 365. De basis mogelijkheden zijn grat
 
 Meer informatie over powerbi is te vinden op [powerbi.microsoft.com](https://powerbi.microsoft.com/en-us/what-is-power-bi/  "https://powerbi.microsoft.com/en-us/what-is-power-bi/").
 
-![Overview](/content/power-bi-overview.png "Overzicht van Power BI")
+![Overview](/content/ife-power-bi-overview.png "Overzicht van Power BI")
 
 ## Microsoft Power BI Embedded
 Microsoft Power BI Embedded is een Azure dienst. Deze dienst maakt het mogelijk om een rapport gemaakt in Power BI desktop, te integreren in webapplicaties of mobiele apps. Het biedt een applicatieontwikkelaar de mogelijkheid om in een maatwerkapplicatie, met zijn eigen set aan requirements, complexe rapporten te integreren via de Power Bi Service.
@@ -35,7 +35,7 @@ Het gebruik van Power BI Embedded zorgt ervoor dat een Power BI (Office365) acco
 ## Microsoft Power PI Embedded overzicht
 Microsoft BI Embedded bestaat uit een aantal onderdelen. in de onderstaande afbeelding worden de onderlinge relaties tussen de onderdelen weergegeven. 
 
-![Overview Embedded](/content/power-bi-embedded-overview.png "Overzicht van Power BI Embedded")
+![Overview Embedded](/content/ife-power-bi-embedded-overview.png "Overzicht van Power BI Embedded")
 
 * **Microsoft Azure Subscription**: Voor het gebruik van Power BI Embedded is een Microsoft Azure Subcription noodzakelijk. In een subscription kunnen meerdere Workspace Collections worden aangemaakt.
 

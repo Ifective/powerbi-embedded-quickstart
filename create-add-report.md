@@ -18,7 +18,7 @@ In vervolg op [Aanmaken van een Workspace Collection in Microsoft Azure] gaan we
 
 Zoals al aangegeven kan er een rapport worden gemaakt in Power BI Desktop. Power BI Desktop kan worden gratis gedownload worden via [https://powerbi.microsoft.com/en-us/desktop/](https://powerbi.microsoft.com/en-us/desktop/)
 
-![Power BI Desktop](/content/power-bi-desktop.png "Power BI Desktop")
+![Power BI Desktop](/content/ife-power-bi-desktop.png "Power BI Desktop")
 
 Het resultaat uit Power BI Desktop is een bestand met .pbix extentie. Dit bestand hebben we nodig om deze toe te voegen aan de workspace.
 
