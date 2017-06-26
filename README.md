@@ -17,7 +17,7 @@ Microsoft komt nu met Power BI als onderdeel van de office 365 Suite. Microsoft 
 ## Microsoft Power BI
 Microsoft Power BI is een analytische tool om data te analyseren uit een of meerdere databronnen om vervolgens deze data te delen met eindgebruikers. Met behulp van 'fancy' rapporten en dashboards kan data eenvoudig gepresenteerd en gedeeld worden op diverse apparaten. 
 
-Microsoft Power BI biedt mogelijkheden om aansluiten op verschillende databronnen. Hierbij kunnen we denken aan Excel, platte tekstbestanden of SQL Server in de cloud of on-premise.
+Microsoft Power BI biedt mogelijkheden om aan te sluiten op verschillende databronnen. Hierbij kunnen we denken aan Excel, platte tekstbestanden of SQL Server in de cloud of on-premise.
 
 Met behulp van Power Bi Desktop kan men de data uit verschillende databronnen laten samenkomen in datasets. Op deze samengestelde datasets kunnen diverse rapportages en dashboards worden gemaakt. Power Bi Desktop is een gratis desktopapplicatie wat lokaal op een computer geïnstalleerd kan worden. De rapportages gemaakt met Power Bi Desktop worden vervolgens via de Power Bi Service getoond aan eindgebruikers. 
 
@@ -30,7 +30,7 @@ Meer informatie over powerbi is te vinden op [powerbi.microsoft.com](https://pow
 ## Microsoft Power BI Embedded
 Microsoft Power BI Embedded is een Azure dienst. Deze dienst maakt het mogelijk om een rapport gemaakt in Power BI desktop, te integreren in webapplicaties of mobiele apps. Het biedt een applicatieontwikkelaar de mogelijkheid om in een maatwerkapplicatie, met zijn eigen set aan requirements, complexe rapporten te integreren via de Power Bi Service.
 
-Het gebruik van Power BI Embedded zorgt ervoor dat een Power BI (Office365) account niet nodig is. De dienst staat los van Office 365, het is een dienst in Microsoft Azure. In plaats van betalen van licentiekosten wordt er betaald op basis van een ‘sessies’. Als een rapport wordt geopend in de applicatie door een eindgebruiker dan wordt er voor deze eindgebruiker een sessie aangemaakt. 
+Het gebruik van Power BI Embedded zorgt ervoor dat een Power BI (Office365) account niet nodig is. De dienst staat los van Office 365, het is een dienst in Microsoft Azure. In plaats van betalen van licentiekosten wordt er betaald op basis van ‘sessies’. Als een rapport wordt geopend in de applicatie door een eindgebruiker dan wordt er voor deze eindgebruiker een sessie aangemaakt. 
 
 ## Microsoft Power PI Embedded overzicht
 Microsoft BI Embedded bestaat uit een aantal onderdelen. in de onderstaande afbeelding worden de onderlinge relaties tussen de onderdelen weergegeven. 
@@ -45,5 +45,7 @@ Microsoft BI Embedded bestaat uit een aantal onderdelen. in de onderstaande afbe
 
 Door de gekozen structuur bij Power BI embedded kan bij het inrichten van een Power BI omgeving meerdere keuzes worden gemaakt. Wanneer maak ik een Workspace Collection, wanneer een Workspace etc. Keuze zijn afhankelijk van de requirements, bijvoorbeeld beveiliging of ondersteuning van meerdere Azure Regions. 
 Voor Ifective wordt in de meeste gevallen een Workspace Collection per omgeving aangemaakt (klant/OTAP) en binnen de Workspace Collection per afdeling een workspace.
+
+Heb je vragen of wil je meer weten? Neem dan contact op met Edwin Venema via 06-41483725 of e.venema@ifective.nl
 
 Volgende stap: [Aanmaken van een Workspace Collection in Microsoft Azure] 

@@ -38,3 +38,4 @@ Install from Bower:
     bower install powerbi-client --save
 
     
+Heb je vragen of wil je meer weten? Neem dan contact op met Edwin Venema via 06-41483725 of e.venema@ifective.nl
