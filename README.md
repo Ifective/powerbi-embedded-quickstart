@@ -46,6 +46,6 @@ Microsoft BI Embedded bestaat uit een aantal onderdelen. in de onderstaande afbe
 Door de gekozen structuur bij Power BI embedded kan bij het inrichten van een Power BI omgeving meerdere keuzes worden gemaakt. Wanneer maak ik een Workspace Collection, wanneer een Workspace etc. Keuze zijn afhankelijk van de requirements, bijvoorbeeld beveiliging of ondersteuning van meerdere Azure Regions. 
 Voor Ifective wordt in de meeste gevallen een Workspace Collection per omgeving aangemaakt (klant/OTAP) en binnen de Workspace Collection per afdeling een workspace.
 
-Heb je vragen of wil je meer weten? Neem dan contact op met Edwin Venema via 06-41483725 of e.venema@ifective.nl
+Heb je vragen of wil je meer weten? Neem dan contact met ons op via telefoon: 085-0443333 of via email: [info@ifective.nl](mailto:info@ifective.nl).
 
 Volgende stap: [Aanmaken van een Workspace Collection in Microsoft Azure] 
